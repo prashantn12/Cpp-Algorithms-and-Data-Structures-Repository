@@ -1,0 +1,1 @@
+{"name":"Local: KthLargestElement","url":"d:\\c++ code\\Heap\\KthLargestElement.cpp","tests":[{"id":1691034589657,"input":"3\n4 2\n3 2 15 10\n5 3\n15 14 16 13 10\n2 2\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++ code\\Heap\\KthLargestElement.cpp","group":"local","local":true}

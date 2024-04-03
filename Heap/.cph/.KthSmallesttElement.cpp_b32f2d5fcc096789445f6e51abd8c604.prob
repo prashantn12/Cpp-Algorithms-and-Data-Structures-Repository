@@ -1,0 +1,1 @@
+{"name":"Local: KthSmallesttElement","url":"d:\\c++ code\\Heap\\KthSmallesttElement.cpp","tests":[{"id":1691034721124,"input":"3\n5 4\n7 10 4 20 15\n2 2\n1 2\n4 3\n6 5 2 1","output":"15\n2\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\c++ code\\Heap\\KthSmallesttElement.cpp","group":"local","local":true}
